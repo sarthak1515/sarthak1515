@@ -8,8 +8,7 @@
 🎨 Proficient in developing intuitive, user-focused frontends.<br>
 🛠️ Experienced in designing and implementing robust, scalable backend services.<br>
 🧠 Aligns technical solutions with business objectives for real-world impact.<br>
-⚽ When I’m not coding, you’ll find me playing football. Teamwork and strategy matter both on and off the field.
-</p>
+⚽✈️ Beyond code- travelling, playing football and binge-watching web series.</p>
 
 ###
 
